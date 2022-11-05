@@ -1,0 +1,5 @@
+1000 Discrete Math
+200 Microelectronic Circuits
+100000 Introduction to Algorithms
+750 Object-Oriented Software Engineering
+350 1984
